@@ -39,14 +39,24 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![s1](https://github.com/user-attachments/assets/a8cd7e68-e1f5-4ae6-a23a-f7a08226c5bc)
+![s2](https://github.com/user-attachments/assets/8f45ea48-d2ea-4761-8b4e-21bc3920a97b)
+![s3](https://github.com/user-attachments/assets/6e7c3c6c-52aa-49dc-a2ef-e00621e4e1e4)
+![s4](https://github.com/user-attachments/assets/8d242949-4322-4651-9765-3e0003de34c1)
+![s5](https://github.com/user-attachments/assets/c2f29a4e-5f75-4d6d-8412-763f5cd88e32)
+![s6](https://github.com/user-attachments/assets/fbb8f969-9a11-40ac-a53e-4cc3af4d7112)
+
 
 ## Output:
+![Screenshot 2024-12-14 090028](https://github.com/user-attachments/assets/c09abf14-660c-4e44-8c83-32f011c8f74a)
+![Screenshot 2024-12-14 090040](https://github.com/user-attachments/assets/3f88bb72-5de4-4309-8bd6-60493dc5a10f)
+![Screenshot 2024-12-14 090051](https://github.com/user-attachments/assets/85fc3c83-0875-4a30-b416-fb7a5498061d)
+![Screenshot 2024-12-14 090106](https://github.com/user-attachments/assets/3ac08bb3-dcf0-43c6-8e39-48558ac89a81)
+![Screenshot 2024-12-14 090115](https://github.com/user-attachments/assets/4ea2c9af-f5a3-4021-9bed-f14ba4f5891b)
+![Screenshot 2024-12-14 090140](https://github.com/user-attachments/assets/4d96ea79-9bb8-4ef3-bc45-2be19119b5ff)
 
-### Name:
-### Register Number:
+### Name:R.Rabin
+### Register Number:24900518
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
